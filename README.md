@@ -32,3 +32,5 @@ https://huggingface.co/Tongyi-MAI/Z-Image-Turbo/tree/main
 La pagina es de codigo abierto, y los permisos recaen sobre mi debido a que ha sido escrita por mi. 
 
 Para el hosting de dicha pagina web he usado GitHub pages.
+
+Link para descargar el guion: https://github.com/Lesoto-trooper/Lesoto-trooper.io/blob/main/guion.odt
