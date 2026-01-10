@@ -5,12 +5,19 @@ Mary Pennington
 Fuentes: 
 
 https://es.wikipedia.org/wiki/Mary_Engle_Pennington
+
 https://www.invent.org/inductees/mary-engle-pennington
+
 https://ipwatchdog.com/2018/04/02/mary-engle-pennington-mother-modern-food-preservation/
+
 https://thephiladelphiacitizen.org/mary-engle-pennington-bio/
+
 https://mujeresconciencia.com/2014/10/08/mary-engle-pennington-quimica-bacteriologa/
+
 https://www.fda.gov/about-fda/fda-history-exhibits/mary-engle-pennington-cold-chain-food-safety
+
 https://www.mujeresenlahistoria.com/2025/10/mary-engle-pennington.html
+
 
 Autoría de las imagenes y los "assets" usados: 
 
