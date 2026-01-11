@@ -28,6 +28,7 @@ Autoría de las imágenes y los "assets" usados:
 Para evitar infringir copyright, la mayoría de las imagenes/"assets" han sido generadas con un modelo de IA, de generación de imágenes, abierto y libre de descarga, el modelo ha sido operado de forma local, es decir, no he usado ninguna empresa para poder generar y procesar las imágenes, todo ha sido en un ordenador de mi propiedad. 
 
 La única imagen no generada es de uso libre sin restricciones, bajo los términos de "Smithsonian Institute.": https://siarchives.si.edu/collections/siris_arc_306396
+
 (Smithsonian Institution Archives, Accession 90-105, Science Service Records, Image No. SIA2009-1451)
 
 Modelo usado: 
